@@ -1,0 +1,27 @@
+bin/
+.settings/
+.project
+.classpath
+.metadata/
+# --- Maven ---
+target/
+
+# --- Eclipse ---
+.settings/
+.classpath
+.project
+.factorypath
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+out/
+
+# --- VS Code ---
+.vscode/
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
+#---Archivos de Log---
+*.log
